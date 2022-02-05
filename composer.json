@@ -1,0 +1,23 @@
+{
+  "name": "crystalcode/di",
+  "type": "library",
+  "description": "Di Framework for Domain Driven oriented software",
+  "keywords": ["framework"],
+  "homepage": "https://crystalcode.co",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcin Kukliński",
+      "email": "senghe@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "^7.1",
+    "phpunit/phpunit": "^9.5",
+    "symplify/easy-coding-standard": "^10.0"
+  },
+  "minimum-stability": "dev"
+}
