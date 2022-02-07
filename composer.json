@@ -1,8 +1,8 @@
 {
-  "name": "crystalcode-official/di",
+  "name": "crystalcode-official/winter",
   "type": "library",
   "description": "Di Framework for Domain Driven oriented software",
-  "keywords": ["framework"],
+  "keywords": ["framework", "ddd", "domain driven design"],
   "homepage": "https://crystalcode.co",
   "license": "MIT",
   "authors": [
